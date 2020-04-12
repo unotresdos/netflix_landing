@@ -1,0 +1,16 @@
+{
+  "name": "streaming_app_landing",
+  "version": "1.0.0",
+  "description": "Landing Page",
+  "main": "index.js",
+  "homepage": "https://unotresdos.github.io/netflix_landing",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Zharaskhan Kuanyshuly",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.2.0",
+    "node-sass": "^4.13.1"
+  }
+}
