@@ -5,7 +5,7 @@
   "main": "index.js",
   "homepage": "https://unotresdos.github.io/netflix_landing",
   "scripts": {
-    "deploy": "gh-pages -d netflix_landing"
+    "deploy": "gh-pages -d dist"
   },
   "author": "Zharaskhan Kuanyshuly",
   "license": "ISC",
